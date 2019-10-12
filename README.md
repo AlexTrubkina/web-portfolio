@@ -3,6 +3,28 @@
 You can use the [editor on GitHub](https://github.com/AlexTrubkina/alextrubkina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Лабортаорные работы по веб-проектированию.
+#### Неделя № 1
+1. Работа 1
+
+1. Работа 2
+
+1. Задачи из учебника
+#### Неделя № 2
+1. лабораторная работа
+
+#### Неделя № 3
+1. XSL
+
+1. Лабораторные работы:
+    * Задание 1
+    * Задание 2
+
+#### Неделя № 4
+
+#### Неделя № 5
+
+#### Неделя № 6
 
 ### Markdown
 
