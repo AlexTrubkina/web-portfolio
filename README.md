@@ -4,9 +4,9 @@
 #### Неделя № 1
 1. Node installation
 
-![picture](https://github.com/AlexTrubkina/web-portfolio/blob/master/first%20week/node_installation.png)
+![picture](node_installation.png)
 
-![picture](https://github.com/AlexTrubkina/web-portfolio/blob/master/first%20week/node_installation1.png)
+![picture](node_installation1.png)
 
 2. Работа 2
 
