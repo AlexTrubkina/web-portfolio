@@ -19,3 +19,5 @@
 [https://kodaktor.ru/07112019_9da15](https://kodaktor.ru/07112019_9da15)
 
 [https://kodaktor.ru/07112019_eafdc](https://kodaktor.ru/07112019_eafdc)
+
+### Компьютерный практикум.
