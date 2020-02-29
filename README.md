@@ -28,18 +28,17 @@
     
 #### Тема 4. Экспериментальная проверка корректности функционирования (тестирование) веб-приложений.
 
-
+   1.  Установка и настройка линтера кода на языке JavaScript
+   ![](theme4/linter/theme4lab11.jpg)
+   ![](theme4/linter/theme4lab12.jpg)
+   ![](theme4/linter/theme4lab13.jpg)
+   ![](theme4/linter/theme4lab14.jpg)
+   ![](theme4/linter/theme4lab15.jpg)
+   ![](theme4/linter/theme4lab16.jpg)
     
 ### Самостоятельные работы
 
       
-  
-### Домашняя работа
-[https://kodaktor.ru/29102019_c8f2f](https://kodaktor.ru/29102019_c8f2f)
-### Лабораторные работы
-[https://kodaktor.ru/07112019_9da15](https://kodaktor.ru/07112019_9da15)
-
-[https://kodaktor.ru/07112019_eafdc](https://kodaktor.ru/07112019_eafdc)
 
 ## Компьютерный практикум.
 
