@@ -71,6 +71,8 @@
 
 2.  Создание интерфейса MaterialUI на React-платформе
 
+     [Решение](https://stackblitz.com/edit/react-vyzdrc?file=index.js)
+
 
 ## Компьютерный практикум.
 
