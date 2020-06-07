@@ -52,13 +52,15 @@
   
   2. Проектирование линейного и ветвящегося алгоритма на JavaScript, проектирование рекурсивного алгоритма и фабрики функций на основе каррирования и замыкания и размещение отчёта по выполнению заданий в вебпортфолио
   
-  [Решение](https://repl.it/@AlieksandraTrub/Linieinyi-i-vietviashchiisia-alghoritmy#script.js)
+      [Решение](https://repl.it/@AlieksandraTrub/Linieinyi-i-vietviashchiisia-alghoritmy#script.js)
   
   3. Разработка приложения для асинхронного считывания данных из JSON и вывода в веб-документ путём нативной модификации дерева DOM
   
+      [Решение](https://repl.it/@AlieksandraTrub/schityvaniia-dannykh-iz-JSON#index.html)
+  
   4. Настройка линтера и иных средств мониторинга корректности программного года
   
-  [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/lab41.md)
+      [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/lab41.md)
 
 ### ВСР
 
