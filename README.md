@@ -120,4 +120,10 @@
 - Преобразование кода на JavaScript,  содержащего конструкции из следующих версий стандарта ECMAScript.
 
    [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/comppract12.md)
+   
+### Тема 2.  Серверные программные комплексы на платформе JavaScript и PHP 
+
+- Создание простого веб-сервера на основе Node.js
+
+
   
