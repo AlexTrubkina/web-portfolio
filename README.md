@@ -124,6 +124,7 @@
 ### Тема 2.  Серверные программные комплексы на платформе JavaScript и PHP 
 
 - Создание простого веб-сервера на основе Node.js
+  [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/report.md)
 
 - Моделирование взаимодействия «клиент-сервер» с помощью программы telnet и программы curl
 
@@ -131,7 +132,7 @@
 
 - Создание клиентского веб-приложения для извлечения данных
 
-[Решение](https://repl.it/@AlieksandraTrub/Lab-rabota-tiema-31#index.html)
+  [Решение](https://repl.it/@AlieksandraTrub/Lab-rabota-tiema-31#index.html)
 
 - Разработка базы данных (БД) типа «ключ-значение» и обращение к ней
 
