@@ -84,7 +84,7 @@
   
    [Решение](https://docs.google.com/presentation/d/1lzrJkNM0bAl7B8Kiz2l1ba0BmboFcQ1VIMCJPjfg6gQ/edit?usp=sharing)
 
-  4 Подготовка презентации по инструментам веб-разработчика в составе браузера
+  4. Подготовка презентации по инструментам веб-разработчика в составе браузера
   
    [Решение](https://docs.google.com/presentation/d/1Ix4HaGet8w0OlbyFj2ppwL8IUsnroMkR4hADEJRwkdo/edit?usp=sharing)
 
@@ -163,11 +163,27 @@
    
    4.3 Сборка проекта с помощью бандлера и с использованием транспилятора.
    
+   
+   
    4.4 Развёртывание приложения на деплой-платформе.
  
  ### ВСР
  
    1.  Подготовка сообщения и мастер-класса по интерфейсу Web Audio
+   
+   [Решение](https://tuhub.ru/posts/vvedenie-v-web-audio-api)
+   
+   2. Подготовка выступления и мастер-класса по сравнению характеристик Canvas и SVG
+   
+   [Решение](https://docs.google.com/presentation/d/1sqg6dvST-r13IyYRRwd6Z5WcAHHFdltXhDdII5Mz1_E/edit?usp=sharing)
+   
+   3. Подготовка презентации и мастер-класса по сравнению характеристик GD2 и Canvas   
+   
+   
+   4. Разработка интерфейса веб-ресурса на базе библиотеки React и подготовка сообщения и мастер-класса по этой теме.
+   
+   [Веб-ресурс](https://stackblitz.com/edit/react-vyzdrc?file=index.js)
+   [Сообщение](https://docs.google.com/presentation/d/1a4I3m5m2QsvUjGzkhDy3GSn1PVRLDMuLZslSfyQZSXw/edit?usp=sharing)
 
 
 # Компьютерный практикум.
@@ -186,6 +202,7 @@
 ### Тема 2.  Серверные программные комплексы на платформе JavaScript и PHP 
 
 - Создание простого веб-сервера на основе Node.js
+
   [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/report.md)
 
 - Моделирование взаимодействия «клиент-сервер» с помощью программы telnet и программы curl
@@ -220,11 +237,13 @@
   
   2.2 Эмулирование отправки HTTP-запроса серверу методом GET с помощью клиентов telnet с записью скринкаста совершаемых действий.
   
+  
+  
   2.3 Отправка HTTP-запроса серверу методом GET и POST с помощью приложения c URL с записью скринкаста совершаемых действий. 
   
   3.1 Разработка приложения, извлекающего данные из файла в формате JSON
   
-   [Решение](https://repl.it/@AlieksandraTrub/schityvaniia-dannykh-iz-JSON#index.html)
+   
   
   3.2 Проектирование веб-базы данных и разработка приложения на основе фреймворка Express с реализацией маршрутизации и операций CRUD над простой БД с обработкой запросов REST
   
