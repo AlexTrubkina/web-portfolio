@@ -9,3 +9,7 @@
 ![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/5.png)
 
 ![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/6.png)
+
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/Screenshot%20from%202020-06-20%2021-43-42.png)
+
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme%202.1/Screenshot%20from%202020-06-20%2021-45-05.png)
