@@ -12,4 +12,4 @@
 
 4. Создаю logout
 
-[](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr2/5.png)
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr2/5.png)
