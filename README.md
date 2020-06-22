@@ -172,7 +172,7 @@
  
    1.  Подготовка сообщения и мастер-класса по интерфейсу Web Audio
    
-   [Решение](https://tuhub.ru/posts/vvedenie-v-web-audio-api)
+   [Решение](https://docs.google.com/presentation/d/18-urGRt8CFJKt5cHDCc9_vjAeglfhbLwSAJOsQWEDvc/edit?usp=sharing)
    
    2. Подготовка выступления и мастер-класса по сравнению характеристик Canvas и SVG
    
