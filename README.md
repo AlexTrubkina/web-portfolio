@@ -259,7 +259,9 @@
   
    [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr1/report.md)
   
-  2. Разработка REST-микросервиса с аутентификацией на базе сессией
+  2. Разработка REST-микросервиса с аутентификацией 
+  
+   [Решение](https://github.com/AlexTrubkina/web-portfolio/tree/master/Comp%20Pract/vsr2)
   
   3. Подготовка презентации по Mongo и Mongoose
   
