@@ -1,11 +1,19 @@
 1. Создаю проект
 
-2. Добавляю в файл package.json раздел scripts с командой start
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme41/1.png)
 
-3. Создаю файл index.js в папке ./src
+2. Создаю файл index.js в папке ./src
 
-4. Создаю файл list.pug в папке ./views
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme41/2.png)
 
-5. Дописываю программу
+3. Создаю файл list.pug в папке ./views
 
-6. Результат
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme41/3.png)
+
+4. Дописываю программу
+
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme41/4.png)
+
+5. Результат
+
+![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/Theme41/5.png)
