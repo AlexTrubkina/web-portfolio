@@ -22,6 +22,6 @@
 
 ![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr4/6.png)
 
-7. Результат
+7. Результат [](https://protected-fortress-33463.herokuapp.com/)
 
 ![](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr4/7.png)
