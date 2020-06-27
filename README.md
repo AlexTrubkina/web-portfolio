@@ -167,6 +167,7 @@
    4.4 Развёртывание приложения на деплой-платформе.
    
    [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr4/report.md)
+   
  
  ### ВСР
  
@@ -258,7 +259,7 @@
   
   4.2 Анализ и настройка серверной компоненты веб-сайта. Анализ и настройка механизма аутентификации веб-сайта в том числе на основе механизма сессий.
   
-  [Решение](https://github.com/AlexTrubkina/web-portfolio/tree/master/Comp%20Pract/vsr2)
+  [Решение](https://github.com/AlexTrubkina/web-portfolio/blob/master/Comp%20Pract/vsr2/report.md)
 
 ### ВСР
 
